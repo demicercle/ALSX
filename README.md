@@ -8,15 +8,17 @@
 - [ ] MeleeWeapon
 - [ ] RangedWeapon
 - [ ] Binoculars
-- [ ] GenericTrigger
-- [ ] ActorTrigger
-- [ ] PlayerTrigger
+- [x] GenericTrigger
+- [x] ActorTrigger
+- [x] PlayerTrigger
 - [ ] PressurePlate
-- [ ] InteractTrigger
+- [x] InteractTrigger
 - [ ] GrabbableSlot
 - [ ] ItemSlot
 - [ ] ActorSlot?
 - [ ] InventoryWidget
+- [ ] projectile trigger
+- [ ] prevent interaction while aiming
 
 
 
