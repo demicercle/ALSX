@@ -11,16 +11,17 @@
 - [x] GenericTrigger
 - [x] ActorTrigger
 - [x] PlayerTrigger
-- [ ] PressurePlate
+- [x] PressurePlate
 - [x] InteractTrigger
 - [ ] GrabbableSlot
 - [ ] ItemSlot
 - [ ] ActorSlot?
-- [ ] InventoryWidget
 - [ ] projectile trigger
-- [ ] prevent interaction while aiming
-
-
-
-- [ ] An uncompleted task
-- [x] A completed task
+- [ ] prevent interaction while aiming / rebind input
+- [ ] bug grabbable fall through ground
+- [ ] dead zone joystick
+- [ ] hold from drop weapon
+- [ ] inventory UI
+- [ ] pause menu
+- [x] debug crosshair / first person cam switch
+- [ ] real crosshair
