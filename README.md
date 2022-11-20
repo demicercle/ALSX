@@ -1,6 +1,7 @@
 # ALSX
 
 MP MODE
+- [ ] bug arrow not fired after being fired once
 - [ ] pickup keys
 - [x] lit torch no physics
 - [ ] interact trigger
