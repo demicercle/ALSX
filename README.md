@@ -1,5 +1,15 @@
 # ALSX
 
+MP MODE
+- [ ] pickup keys
+- [ ] lit torch no physics
+- [ ] interact trigger
+- [ ] inventory widget category filter
+- [ ] player position widget 
+- [ ] map marker widget 
+- [ ] lobby / login logic
+
+(OLD STUFF)
 - [x] Prevent Mantle from specific Overlay or when Aiming with a weapon
 - [ ] rework equippable with "tags"
 - [ ] Rifle
