@@ -2,8 +2,10 @@
 
 MP MODE
 - [ ] pickup keys
-- [ ] lit torch no physics
+- [x] lit torch no physics
 - [ ] interact trigger
+- [ ] slot triggers
+- [ ] torch/item slot => set no physics simulation
 - [ ] inventory widget category filter
 - [ ] player position widget 
 - [ ] map marker widget 
