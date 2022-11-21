@@ -33,3 +33,4 @@ MP MODE
 - [ ] checkpoint system
 - [ ] loose torch / equipped when going to ragdoll
 - [ ] switch fps mode on bow?? add an option
+- [ ] create a damage class for "arrow" which compute velocity and "ragdoll time", used in the health component
