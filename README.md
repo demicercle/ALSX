@@ -2,18 +2,16 @@
 
 MP MODE
 - [ ] bug arrow not fired after being fired once
-- [ ] pickup keys
-- [x] lit torch no physics
-- [ ] interact trigger
-- [ ] slot triggers
-- [ ] torch/item slot => set no physics simulation
-- [ ] inventory widget category filter
+- [ ] rework inventory item widget "get description" : get line/color/quantity
 - [ ] player position widget 
 - [ ] map marker widget 
-- [ ] lobby / login logic
-
-(OLD STUFF)
-- [x] Prevent Mantle from specific Overlay or when Aiming with a weapon
+- [ ] lobby start map
+- [ ] clean code & bp
+- [ ] itempack (quiver)
+- [ ] lootactor
+- [ ] prevent mantle
+- [ ] drop grabbable on ground
+- [ ] interact to drop grabbable
 - [ ] rework equippable with "tags"
 - [ ] Rifle
 - [ ] Pistol2H
@@ -21,29 +19,15 @@ MP MODE
 - [ ] RangedWeapon
 - [ ] Binoculars
 - [ ] GrabbableSlot
-- [ ] ItemSlot
-- [ ] ActorSlot?
 - [ ] projectile trigger
-- [x] prevent interaction while aiming
+- [ ] prevent interaction while aiming
 - [ ] dead zone joystick
-- [ ] hold from drop weapon
+- [ ] hold for drop weapon
 - [ ] inventory UI
 - [ ] crosshair UI
 - [ ] pause menu
-- [ ] real crosshair
-- [x] torch is visible as parameter
+- [ ] crosshair
+- [ ] player name
 - [ ] torch slot
-- [x] basic popup system (reading notes, etc)
-- [ ] dialog ui with proper asset data
 - [ ] health / damage system
 - [ ] checkpoint system
-- [x] bow / torch socket
-- [ ] pistol / rifle socket
-
-
-- [x] aim trace
-- [x] GenericTrigger
-- [x] ActorTrigger
-- [x] PlayerTrigger
-- [x] PressurePlate
-- [x] InteractTrigger
