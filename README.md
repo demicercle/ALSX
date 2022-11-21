@@ -31,3 +31,5 @@ MP MODE
 - [ ] torch slot
 - [ ] health / damage system
 - [ ] checkpoint system
+- [ ] loose torch / equipped when going to ragdoll
+- [ ] switch fps mode on bow?? add an option
