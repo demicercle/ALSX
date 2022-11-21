@@ -9,7 +9,7 @@ MP MODE
 - [ ] clean code & bp
 - [ ] itempack (quiver)
 - [ ] lootactor
-- [ ] prevent mantle
+- [x] prevent mantle
 - [ ] drop grabbable on ground
 - [ ] interact to drop grabbable
 - [ ] rework equippable with "tags"
