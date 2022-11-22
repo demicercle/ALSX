@@ -21,7 +21,7 @@ MP MODE
 - [ ] GrabbableSlot
 - [ ] projectile trigger
 - [ ] prevent interaction while aiming
-- [ ] dead zone joystick
+- [x] dead zone joystick
 - [ ] hold for drop weapon
 - [ ] inventory UI
 - [ ] crosshair UI
