@@ -1,8 +1,8 @@
 # ALSX
 
 MP MODE
-- [ ] bug arrow not fired after being fired once
-- [ ] rework inventory item widget "get description" : get line/color/quantity
+- [x] bug arrow not fired after being fired once
+- [ ] rework inventory item widget
 - [ ] player position widget 
 - [ ] map marker widget 
 - [ ] lobby start map
