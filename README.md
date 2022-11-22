@@ -35,3 +35,4 @@ MP MODE
 - [ ] switch fps mode on bow?? add an option
 - [ ] create a damage class for "arrow" which compute velocity and "ragdoll time", used in the health component
 - [ ] "is aiming" has a component for AI ?? 
+- [ ] arrow ignore shooter logic??
