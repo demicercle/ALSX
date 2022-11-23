@@ -1,6 +1,7 @@
 # ALSX
 
 MP MODE
+
 - [x] bug arrow not fired after being fired once
 - [ ] rework inventory item widget
 - [ ] player position widget 
@@ -36,3 +37,14 @@ MP MODE
 - [ ] create a damage class for "arrow" which compute velocity and "ragdoll time", used in the health component
 - [ ] "is aiming" has a component for AI ?? 
 - [ ] arrow ignore shooter logic??
+
+MAPS
+
+Demonstration_LucasF
+MapTest_TM_Auto3
+TestLEO
+PaulineGMap
+RGregori_Scene
+demo_mariem
+Demonstratus_Test
+TestTG
