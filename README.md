@@ -2,6 +2,7 @@
 
 MP MODE
 
+- [ ] save player name somewhere
 - [x] bug arrow not fired after being fired once
 - [ ] rework inventory item widget
 - [ ] player position widget 
