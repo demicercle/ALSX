@@ -2,6 +2,7 @@
 
 MP MODE
 
+- [ ] Player Hud Actor as child Actor to display 3D world space widgets
 - [ ] destroy quiver after some times
 - [ ] save player name somewhere
 - [ ] player position widget 
