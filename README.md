@@ -2,16 +2,12 @@
 
 MP MODE
 
+- [ ] destroy quiver after some times
 - [ ] save player name somewhere
-- [x] bug arrow not fired after being fired once
-- [ ] rework inventory item widget
 - [ ] player position widget 
 - [ ] map marker widget 
-- [ ] lobby start map
 - [ ] clean code & bp
-- [ ] itempack (quiver)
 - [ ] lootactor
-- [x] prevent mantle
 - [ ] drop grabbable on ground
 - [ ] interact to drop grabbable
 - [ ] rework equippable with "tags"
