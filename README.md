@@ -2,6 +2,12 @@
 
 MP MODE
 
+- parfois les maps ne se lance pas
+- il faut expliquer les contrôles
+- les IA ne sont pas répliquées
+- si on tombe de trop haut, on passe à travers le décor
+- [ ] handle different player size
+- [ ] customize player color
 - [ ] Player Hud Actor as child Actor to display 3D world space widgets
 - [ ] destroy quiver after some times
 - [ ] save player name somewhere
