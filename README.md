@@ -2,7 +2,7 @@
 
 MP MODE
 
-- parfois les maps ne se lance pas
+- [x] parfois les maps ne se lance pas
 - il faut expliquer les contrôles
 - les IA ne sont pas répliquées
 - si on tombe de trop haut, on passe à travers le décor
