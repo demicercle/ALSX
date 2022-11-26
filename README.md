@@ -4,8 +4,8 @@ MP MODE
 
 - [x] parfois les maps ne se lance pas
 - il faut expliquer les contrôles
-- les IA ne sont pas répliquées
-- si on tombe de trop haut, on passe à travers le décor
+- [x] les IA ne sont pas répliquées
+- [x] si on tombe de trop haut, on passe à travers le décor
 - [ ] handle different player size
 - [ ] customize player color
 - [ ] Player Hud Actor as child Actor to display 3D world space widgets
